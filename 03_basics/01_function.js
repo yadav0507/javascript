@@ -61,7 +61,7 @@ function handleObject(anyobject){
 // handleObject(use)
 handleObject({
     username: "samm",
-    priceL 999
+    price: 999
 })
 
 const myNewArry = [200, 300, 100, 900]
